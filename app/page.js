@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <div>surya the hero</div>
+    <div>surya the hero raj</div>
   );
 }
