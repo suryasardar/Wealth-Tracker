@@ -1,7 +1,12 @@
+import { Button } from "@/components/ui/button";
 
 
 export default function Home() {
   return (
-    <div>surya the  raj</div>
+    <div className="mt-30">
+      <Button>
+        Like me
+    </Button>
+    </div>
   );
 }
