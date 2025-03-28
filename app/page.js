@@ -1,7 +1,11 @@
+import Herosection from "@/components/hero";
+
 
 
 export default function Home() {
   return (
-    <div>surya the  raj</div>
+    <div className="mt-30 ml-10">
+    <Herosection/>
+    </div>
   );
 }
