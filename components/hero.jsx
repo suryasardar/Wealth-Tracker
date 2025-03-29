@@ -44,7 +44,7 @@ const HeroSection = () => {
           </Link>
           <Link href="https://www.youtube.com/roadsidecoder">
             <Button size="lg" variant="outline" className="px-8">
-              Watch Dem
+              Watch Demo
             </Button>
           </Link>
         </div>
@@ -60,7 +60,7 @@ const HeroSection = () => {
             />
           </div>
         </div>
-      </div>s
+      </div>
     </section>
   );
 };
